@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyJetCompose</string>
+    <string name="outline_field">My Outlined TextField</string>
+    <string name="text_field">My TextField</string>
+</resources>
